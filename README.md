@@ -204,7 +204,7 @@ The cube is structured as a 3D coordinate system: **$X$ (Columns: $0 \dots 3$)**
 5. Compile and upload over USB at `115200` baud.
 
 ### 2. Install the Mobile App
-1. Download the pre-built application APK from the **[Releases](https://github.com/your-username/esp32-3d-led-cube/releases)** section (or install the provided APK on your Android device).
+1. Download the pre-built application APK from the **[Releases](https://github.com/PaulwinTP/CubeX-48/releases/tag/v.1.1)** section (or install the provided APK on your Android device).
 2. Open the app and grant **Bluetooth** and **Location** permissions when prompted.
 
 ### 3. Connect & Control
