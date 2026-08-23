@@ -9,8 +9,8 @@ Developed and prototyped as a hardware-software embedded systems project during 
 
 ## 👨‍💻 Connect With Me
 
-- **LinkedIn:** [Your Name - LinkedIn Profile](https://www.linkedin.com/in/your-profile-handle)
-- **Project Repository:** [GitHub Repository](https://github.com/your-username/esp32-3d-led-cube)
+- **LinkedIn:** [Paulwin.T.P - LinkedIn Profile](www.linkedin.com/in/paulwin-t-p)
+- **Project Repository:** [GitHub Repository]( https://github.com/PaulwinTP/CubeX-48.git)
 
 ---
 
@@ -25,7 +25,6 @@ Developed and prototyped as a hardware-software embedded systems project during 
   <em>Figure 1: Full system demonstration showing BLE discovery, real-time animation switching, and manual voxel control.</em>
 </p>
 
-> **Note on adding video on GitHub:** Place your portrait MP4 file inside an `assets/` folder in your repo and update the path above, or drag and drop your video file directly into the GitHub README editor to generate an auto-hosted video link.
 
 ---
 
