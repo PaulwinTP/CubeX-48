@@ -18,7 +18,7 @@ Developed and prototyped as a hardware-software embedded systems project during 
 
 <p align="center">
   <!-- Portrait video preview embed -->
-  <video src="assets/demo_video.mp4" width="320" height="640" controls muted autoplay loop style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <video src="CubeX-48/demo_video.mp4" width="320" height="640" controls muted autoplay loop style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     Your browser does not support the video tag.
   </video>
   <br>
